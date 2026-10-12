@@ -1,0 +1,85 @@
+
+
+https://www.simplilearn.com/tutorials/jira/top-asked-jira-interview-questions
+1. What is Jira?
+Jira is project management and issue-tracking tool used by software teams to track plan, track, and manage work.
+It helps teams create tasks, bugs, stories, and epics, assign them to users, move them through workflow, and monitor project progress.
+
+In an interview, Jira is mainly used to bring visibility into teamwork. 
+Instead of tracking tasks over scattered spreadsheets or chats, teams can see who is working on what, what is blocked, and what is ready for release.
+
+
+2. Why is Jira used in software development projects?
+Jira is used to manage tasks, bugs, user stories, sprints, releases, and project progress in one place. It helps teams plan work, assign ownership, track status, and collaborate better across development, testing, and product teams.
+For example, a product owner can create user stories, developers can update progress, testers can raise bugs, and managers can use reports to review delivery health.
+
+3. What is an issue in Jira?
+An issue is a work item in Jira. 
+It can represent a task, bug, story, epic, improvement, or any unit of work that needs to be tracked.
+
+Each issue usually has a summary, description, acceptance criteria, assignee, reporter, priority, status, due date, comments, attachments, and links to related issues. 
+Issues move through workflows until they are completed.
+
+4. What is the difference between an Epic, Story, Task, and Bug in Jira?
+An Epic is a large body of work that may contain multiple stories or tasks. 
+
+A Story describes a user requirement or feature from the user's perspective. 
+
+A Task is a general work item.
+
+A bug tracks a defect or problem in the product.
+
+For example, "Improve checkout experience" can be an epic. 
+"As a user, I want to save my card details" can be a story. 
+"Update payment API documentation" can be a task. 
+"Payment fails for saved cards" can be a bug.
+
+5. What is a Jira project?
+A Jira project is a container used to organize related issues, workflows, boards, permissions, and reports. 
+
+A project may represent a product, team, department, client assignment, or internal initiative.
+
+For example, a company may have separate Jira projects for its mobile app, website, support team, and data engineering team.
+
+
+6. What is the purpose of a Jira board?
+A Jira board gives teams a visual view of work and its progress. It usually shows issues in columns such as To Do, In Progress, Review, Testing, and Done.
+
+Boards help teams quickly understand what is pending, active, blocked, and completed. Scrum teams use boards to track sprint work, while Kanban teams use boards to track continuous work.
+
+7. What is the difference between a Scrum board and a Kanban board in Jira?
+A Scrum board is used for sprint-based work. Teams plan a fixed set of work for a sprint and complete it within a time-boxed iteration.
+
+A Kanban board is used for continuous flow. Work is pulled as capacity becomes available, with a focus on limiting work in progress and improving delivery flow.
+
+In simple terms, Scrum is better when work is planned in sprint cycles. Kanban is better when work arrives continuously, such as support tickets or operations tasks.
+
+
+8. What is a backlog in Jira?
+A backlog is a prioritized list of work that the team may need to complete and can include user stories, tasks, bugs, improvements, and technical work.
+
+The backlog helps the product owner and the team decide what to work on next. 
+
+A healthy backlog is usually refined, prioritized, and clear enough for sprint planning.
+
+9. What happens when an issue moves through a workflow?
+When an issue moves through a workflow, its status changes based on the stage of work. 
+
+For example, an issue may move from To Do to In Progress, then to Code Review, Testing, and Done.
+
+This helps teams track progress and understand where each work item stands. Workflows also help enforce process steps, approvals, validations, and ownership.
+
+10. What are issue statuses in Jira?
+Issue statuses show the current stage of an issue in the workflow. Common examples include To Do, In Progress, In Review, Testing, Blocked, and Done.
+
+A good answer should also mention that statuses should align with the team's actual process. Too many statuses can make the workflow confusing, while too few may hide important progress details.
+
+11. What is the difference between an assignee and a reporter in Jira?
+The reporter is the person who created or raised the issue. The assignee is the person responsible for working on it.
+
+For example, a tester may report a bug, but a developer may be assigned to fix it. Once the issue is resolved, the tester may verify whether the fix works.
+
+Read Scrum Versus Kanban: https://www.simplilearn.com/tutorials/agile-scrum-tutorial/scrum-vs-kanban
+
+
+
